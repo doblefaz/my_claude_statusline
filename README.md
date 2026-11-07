@@ -1,6 +1,6 @@
 # my_claude_statusline
 
-Custom status line for [Claude Code](https://claude.com/claude-code).
+My custom status line for [Claude Code](https://claude.com/claude-code).
 
 ## What it shows
 
